@@ -14,7 +14,7 @@ export default defineConfig({
         text: '指南',
         items: [
           { text: '介绍', link: '/guide/introduction' },
-          { text:'course', llink:'/course/Week1'},
+          { text:'course', llink:'/course/Week1/Week1'},
           { text: '快速开始', link: '/guide/getting-started' }
         ]
       }
