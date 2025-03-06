@@ -1,8 +1,8 @@
 ---
 layout: home
 hero:
-  name: 欢迎来到我的作业
-  text: 使用 VitePress 构建的站点
+  name: 欢迎
+  text: 使用 VitePress 学习
   tagline: 简单、强大、高性能的现代化文档网站
   actions:
     - theme: brand
