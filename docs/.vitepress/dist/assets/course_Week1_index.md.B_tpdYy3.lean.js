@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as r}from"./chunks/framework.JpJ2WkpT.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"course/Week1/index.md","filePath":"course/Week1/index.md"}'),a={name:"course/Week1/index.md"};function o(n,s,c,d,i,p){return r(),t("div")}const f=e(a,[["render",o]]);export{m as __pageData,f as default};

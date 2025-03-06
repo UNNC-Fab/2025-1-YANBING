@@ -2,16 +2,16 @@ import { defineConfig } from 'vitepress'
 
 export default defineConfig({
   base:'/2025-1-YANBING/',
-  title: "YANBING",
+  title: "2025 Fablab",
   description: "使用VitePress构建的文档网站",
   themeConfig: {
     nav: [
-      { text: '首页', link: '/' },
-      { text: '作业', link: '/guide/' }
+      { text: 'Home', link: '/' },
+      { text: 'Course', link: '/guide/' }
     ],
     sidebar: [
       {
-        text: '作业',
+        text: '作业Course',
         items: [
           { text:'week 1', link: '/course/Week1/Week1'},
           { text:'week 2', link: '/course/Week2/Week2'},
