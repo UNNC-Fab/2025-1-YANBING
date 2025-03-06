@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 export default defineConfig({
   base:'/2025-1-YANBING/',
-  title: "我的文档网站",
+  title: "YANBING",
   description: "使用VitePress构建的文档网站",
   themeConfig: {
     nav: [
