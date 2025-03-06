@@ -1,7 +1,7 @@
 ---
 layout: home
 hero:
-  name: 欢迎
+  name: Welcome
   text: 使用 VitePress 学习
   tagline: 简单、强大、高性能的现代化文档网站
   actions:
