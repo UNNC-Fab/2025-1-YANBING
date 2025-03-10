@@ -11,7 +11,7 @@ export default defineConfig({
     ],
     sidebar: [
       {
-        text: '作业Course',
+        text: 'Course',
         items: [
           { text:'week 1', link: '/course/Week1/Week1'},
           { text:'week 2', link: '/course/Week2/Week2'},
