@@ -4,6 +4,7 @@ export default defineConfig({
   base:'/2025-1-YANBING/',
   title: "2025 Fablab",
   description: "使用VitePress构建的文档网站",
+  ignoreDeadLinks: true,
   themeConfig: {
     nav: [
       { text: 'Home', link: '/' },

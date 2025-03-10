@@ -9,7 +9,7 @@ By default, the main page of your website is the index.md file located in the do
 The index md file is shown below.
 ![p3](/images/image3.png)
 ## 3. Preview the Web page
-Once I have written content for the main page, run the VitePress development server to preview it:npm run dev. Then thie will launch a local development server (typically at http://localhost:3000), where I can see my main page in action.
+Once I have written content for the main page, run the VitePress development server to preview it:npm run dev. Then thie will launch a local development server, where I can see my main page in action.
 ![p4](/images/image4.png)
 ## 4. Push the Page to Github
  After constructing the website, I will use Git to track project files and then pushing them to a GitHub repository.
