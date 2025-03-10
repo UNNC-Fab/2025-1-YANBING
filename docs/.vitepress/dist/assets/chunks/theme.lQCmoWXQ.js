@@ -1,1 +1,0 @@
-import{r as n,c as t,a,b as c,o as r}from"./framework.DVvJSs0X.js";n();const s={__name:"Layout",setup(e){return(p,_)=>{const o=c("Content");return r(),t("div",null,[a(o)])}}},l={Layout:s,enhanceApp({app:e}){}};export{l as R};
