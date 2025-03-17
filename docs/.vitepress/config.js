@@ -14,8 +14,8 @@ export default defineConfig({
       {
         text: 'Course',
         items: [
-          { text:'week 1', link: '/course/Week1/Week1'},
-          { text:'week 2', link: '/course/Week2/Week2'},
+          { text:'week 1 Web Construction', link: '/course/Week1/Week1'},
+          { text:'week 2 Arduino Application', link: '/course/Week2/Week2'},
           { text:'week 3', link: '/course/Week3/Week3'},
           { text:'week 4', link: '/course/Week4/Week4'},
           { text:'week 5', link: '/course/Week5/Week5'},
