@@ -6,9 +6,10 @@ export default defineConfig({
   description: "使用VitePress构建的文档网站",
   ignoreDeadLinks: true,
   themeConfig: {
+    logo: '/images/logo.svg',
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Course', link: '/guide/' }
+      { text: 'Project', link: '/project/' },
     ],
     sidebar: [
       {
