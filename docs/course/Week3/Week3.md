@@ -14,7 +14,7 @@ An inductor, also called a coil, choke, or reactor, is a passive two-terminal el
 Fusion 360 is a 3D modeling and design software developed by Autodesk. It is widely used for creating 3D models of various objects, including mechanical, electrical, and computer parts. Fusion 360 allows users to create complex 3D models with ease, and it has a user-friendly interface that makes it easy to learn and use.
 ![电路设计工具界面截图](https://unncfab.oss-cn-hangzhou.aliyuncs.com/img/yanbing/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-04-07%20222610.png)
 
-To download fusion, please click [here]( please click [here](URL_ADDRESS.autodesk.com/products/fusion-360/overview?term=1-YEAR&tab=subscription). Then click Sign in for students.
+To download fusion, please click [here](https://www.autodesk.com.cn/products/fusion-360/personal-download). Then click Sign in for students.
 
 ![下载界面](https://unncfab.oss-cn-hangzhou.aliyuncs.com/img/yanbing/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-04-07%20223209.png)
 

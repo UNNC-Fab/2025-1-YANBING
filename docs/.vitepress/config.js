@@ -22,6 +22,7 @@ export default defineConfig({
             { text:'week 3 Electric Design', link: '/course/Week3/Week3'},
             { text:'week 4', link: '/course/Week4/Week4'},
             { text:'week 5', link: '/course/Week5/Week5'},
+            { text:'week 6 3D Printing', link: '/course/Week6/Week6'},
           ]
         }
       ],
