@@ -1,4 +1,4 @@
-# Web Construction
+# Arduino Application
 ## 1. Welding Practice
 At the beginning of the course, we learned and practiced how to use a soldering iron to solder chips and pins. Firstly, Adjust parameters such as welding current, voltage and welding speed according to the welding materials and requirements. Secondly, insert the parts to be welded into the solder paste. During the welding process, try to keep the welding torch steady to avoid false welding. After the welding is completed, a voltmeter should be used to test the function of the welded parts to avoid short circuit or open circuit caused by welding problems.
 

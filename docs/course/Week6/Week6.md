@@ -4,7 +4,7 @@
 
 Fused deposition modeling, or FDM for short, is a material extrusion method of additive manufacturing where materials are extruded through a nozzle and joined together to create 3D objects. 
 
-To participate the 3D modeling competetion and lear more 3D printing modeling. please click [here](https://www.makerworld.com/zh/contests/86?name=Mini+Casino#tab-Entries). This community will provide open source code and modeling resources.
+To participate the 3D modeling competetion and lear more 3D printing modeling. please click [here](https://www.makerworld.com/zh/contests/86?name=Mini+Casino#tab-Entries). To try intreseting modeling develop,please click [here](https://makerworld.com/zh/makerlab/parametricModelMaker?from=makerlab). This community will provide open source code and modeling resources.
 
 ![3](https://unncfab.oss-cn-hangzhou.aliyuncs.com/img/yanbing/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-04-08%20142614.png)
 
