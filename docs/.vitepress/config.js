@@ -20,8 +20,8 @@ export default defineConfig({
             { text:'week 1 Web Construction', link: '/course/Week1/Week1'},
             { text:'week 2 Arduino Application', link: '/course/Week2/Week2'},
             { text:'week 3 Electric Design', link: '/course/Week3/Week3'},
-            { text:'week 4', link: '/course/Week4/Week4'},
-            { text:'week 5', link: '/course/Week5/Week5'},
+            { text:'week 4 CAD', link: '/course/Week4/Week4'},
+            { text:'week 5 PCB Production', link: '/course/Week5/Week5'},
             { text:'week 6 3D Printing', link: '/course/Week6/Week6'},
           ]
         }
