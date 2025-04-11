@@ -54,6 +54,10 @@ Such as: zoom, moving, rootate, cut, text add, material color selection, measure
 
 ![6](https://unncfab.oss-cn-hangzhou.aliyuncs.com/img/yanbing/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-04-08%20171907.png)
 
+Choose the underside to print.
+
+![111](https://unncfab.oss-cn-hangzhou.aliyuncs.com/img/yanbing/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-04-10%20140530.png)
+
 (6) Slice preview
 
 To print the model, we need to slice the model and preview the slice effect. In this page, the material consumption can be estimated. The warning will point out the potential problems of the design.
