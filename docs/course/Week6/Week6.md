@@ -66,9 +66,39 @@ To print the model, we need to slice the model and preview the slice effect. In 
 
 (7) Print
 
+Update the printer information, choose the suitiable printer model amd material color. It should be noticed that the material needs to be put in dry environment to advoid the stringing phenomenon while printing.
+
+![1111](https://unncfab.oss-cn-hangzhou.aliyuncs.com/img/yanbing/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-04-10%20140744.png)
+
 Connect the printer with the computer and upload the design file.
 
 ![8](https://unncfab.oss-cn-hangzhou.aliyuncs.com/img/yanbing/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-04-08%20173202.png)
 
+
+
 ## 3D Scanning
+
+Download the software [here](https://www.shining3d.cn/xz). To use the 3D scanning, we need to correct the scaner firstly. Then, preview the scan effect real time and adjust the scaner to fit the model. After that, transform the scaanning model into a point cloud. Finally, fix broken faces and encapsulate the model. Export the file to stl. form.
+
+![14](https://unncfab.oss-cn-hangzhou.aliyuncs.com/img/yanbing/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20250410174413.jpg)
+
 ## SLA Printing
+
+SLA (Stereolithography) is a popular 3D printing technique and one of the leading resin printing technologies. It stands out in the additive manufacturing industry due to its ability to create highly accurate, isotropic, and watertight prototypes. It also excels in producing production-grade parts with smooth surfaces and intricate details. 
+
+SLA 3D printing begins by submerging the build platform in a tank filled with liquid photopolymer resin, positioning it at a precise layer height above the surface. A high-precision UV laser then selectively cures and solidifies the resin, creating each layer of the model. 
+
+During the photopolymerization process, the UV laser activates the monomer carbon chains in the liquid resin, triggering a chemical reaction that forms solid, crosslinked bonds. This results in strong, durable parts with fine details and smooth surfaces. To accurately direct the laser, a system of mirrors—called galvos—guides the beam along a predefined path, ensuring the entire cross-sectional area of the model is cured into a fully solid structure. 
+
+Once printing is complete, the part remains in a partially cured state. Additional post-processing under UV light is often required to enhance its mechanical and thermal properties. Unlike thermoplastics used in fused deposition modeling (FDM), SLA materials are thermoset polymers, meaning the curing process is irreversible. SLA parts cannot be melted back into liquid form—when exposed to extreme heat, they will burn rather than soften. 
+
+![12](https://unncfab.oss-cn-hangzhou.aliyuncs.com/img/yanbing/Illustration_Knowledge_Base_What_is_SLA_Schematic_printer__SLA_.jpg)
+
+The advantages and disadvantages of SLA printing are as follows:
+
+![13](https://unncfab.oss-cn-hangzhou.aliyuncs.com/img/yanbing/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-04-10%20163731.png)
+
+## HP MJM
+
+The detail MJM printer information can be previewed by clicking [here](https://www.hp.com/cn-zh/printers/3d-printers/products/multi-jet-technology.html).
+

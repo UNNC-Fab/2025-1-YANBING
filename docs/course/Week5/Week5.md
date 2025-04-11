@@ -90,6 +90,8 @@ Then,Machining the PCB with CNC machine.
 
 ![10](https://unncfab.oss-cn-hangzhou.aliyuncs.com/img/yanbing/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-04-08%20183101.png)
 
+![12](https://unncfab.oss-cn-hangzhou.aliyuncs.com/img/yanbing/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20250410174947.jpg)
+
 **5. Welding the electric compoments**
 
 After manufaturing the PCB board, the electric compoments should be welding to the board. 
