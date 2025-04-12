@@ -189,7 +189,7 @@ Let's preview the effect!
 
 ## 6. Solidworks introduction
 
-SOLIDWORKS® 3D CAD is the choice for professionals around the world who need to take design innovation further, produce products faster, and reach the highest levels of efficiency in their day-to-day product development work. Decades of user-driven enhancements and a relentless R&D focus on user experience has made SOLIDWORKS 3D CAD not just powerful, but both easy to learn and fun to use.
+SOLIDWORK 3D CAD is the choice for professionals around the world who need to take design innovation further, produce products faster, and reach the highest levels of efficiency in their day-to-day product development work. Decades of user-driven enhancements and a relentless R&D focus on user experience has made SOLIDWORKS 3D CAD not just powerful, but both easy to learn and fun to use. In addition, solidworks also can rendering the product easily.
  Click [here](https://www.solidworks.com/sw/support/downloads.htm) to download the solidworks. More information about solidworks can be find in https://www.solidworks.com/product/solidworks-3d-cad
 
 ![25](https://unncfab.oss-cn-hangzhou.aliyuncs.com/img/yanbing/curves-surfaces-cad-import-comsol.zh_CN.png)
