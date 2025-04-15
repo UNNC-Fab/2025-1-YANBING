@@ -6,7 +6,7 @@ The Internet of Things (IoT) refers to a network of physical devices, vehicles, 
 
 ![1](https://unncfab.oss-cn-hangzhou.aliyuncs.com/img/yanbing/iot4.png)
 
-Platforms:ALiyun, AWS, AzureLOT etc.
+Platforms:ALiyun, AWS, AzureLOT etc
 
 ## 2. Arduino IOT Design
 
