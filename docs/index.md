@@ -7,7 +7,7 @@ hero:
     src: /images/animation.gif
     alt: 动态演示
     width: 300
-  tagline: Multimodal Haptic Interaction Oral Pad
+  tagline: 2025 UNNC Fablab Course
   actions:
     - theme: brand
       text: About me
