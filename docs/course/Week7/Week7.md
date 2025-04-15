@@ -73,6 +73,7 @@ FIll the float type.
 ![2](https://unncfab.oss-cn-hangzhou.aliyuncs.com/img/yanbing/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-04-15%20174610.png)
 
  The code is shown as follows:
+
 ```bash
 #include "DHT.h"
 #define DHTPIN A1     // Digital pin connected to the DHT sensor
@@ -110,3 +111,5 @@ void loop() {
   Serial.println(F("°F"));
 }
 ```
+
+In addition
