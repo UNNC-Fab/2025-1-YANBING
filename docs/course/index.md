@@ -8,3 +8,4 @@ Welcome to course list:
 - [Week 4 CAD](/course/Week4/Week4)
 - [Week 5 PCB Production](/course/Week5/Week5)
 - [Week 6 3D Printing](/course/Week6/Week6)
+- [Week 7 LOT and Interaction](/course/Week7/Week7)

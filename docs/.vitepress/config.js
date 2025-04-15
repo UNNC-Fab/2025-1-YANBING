@@ -23,6 +23,7 @@ export default defineConfig({
             { text:'week 4 CAD', link: '/course/Week4/Week4'},
             { text:'week 5 PCB Production', link: '/course/Week5/Week5'},
             { text:'week 6 3D Printing', link: '/course/Week6/Week6'},
+            { text:'week 7 IOT and Interaction', link: '/course/Week7/Week7'},
           ]
         }
       ],
