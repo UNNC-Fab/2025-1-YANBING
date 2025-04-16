@@ -15,7 +15,7 @@ More information about chip：[esp32 XIAO](https://www.seeedstudio.com/Seeed-XIA
 
 To finish a case, we used ultrasonic sensors to control the led light bulb to turn on and off.When completing the Case, I had the following problems: 1. Short-connecting problem of led bulb in breadboard. 2. The sensor connection port is correctly connected to the chip. 3, the small bulb connection resistance is too large to cause the problem of not bright.
 
-In addition, you can monitor the case via websitehttps://wokwi.com/arduino.
+In addition. you can monitor the case via websitehttps://wokwi.com/arduino.
 
 
 ![p9](/images/image9.jpg)
