@@ -22,7 +22,7 @@ In addition, you can monitor the case via websitehttps://wokwi.com/arduino.
 
 ![p10](/images/image10.png)
 
-The code is as follows:
+The code is as follows1:
 
 ```bash
 #define TrigPin A0
