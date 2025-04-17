@@ -111,5 +111,3 @@ void loop() {
   Serial.println(F("°F"));
 }
 ```
-
-In addition

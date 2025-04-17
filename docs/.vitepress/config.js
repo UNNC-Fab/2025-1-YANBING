@@ -31,7 +31,7 @@ export default defineConfig({
         {
           text: 'Final Project',
           items: [
-            { text: '项目介绍', link: '/project/' },
+            { text: 'Project Introduction', link: '/project/Project Introduction/1' },
             { text: '设计文档', link: '/project/design' },
             { text: '开发日志', link: '/project/devlog' }
           ]
