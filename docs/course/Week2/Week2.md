@@ -68,6 +68,9 @@ long getDistance() {
   return duration * 0.34029 /2;
 }
 ```
+
+![2](https://unncfab.oss-cn-hangzhou.aliyuncs.com/img/yanbing/2a88fb415d177ae772f7064f825b2182.gif)
+
 ## 3. Ardunio Homework Practice
 
 In the homework practice, I used the slide-switch to control the brightness of LED. Firstly, I monitor the case in wokwi. It has been demonstrated the case can work scucesssfully.
