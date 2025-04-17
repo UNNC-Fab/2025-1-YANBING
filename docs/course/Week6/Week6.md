@@ -98,6 +98,10 @@ The advantages and disadvantages of SLA printing are as follows:
 
 ![13](https://unncfab.oss-cn-hangzhou.aliyuncs.com/img/yanbing/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-04-10%20163731.png)
 
+A print product is shown as follows:
+
+![111](https://unncfab.oss-cn-hangzhou.aliyuncs.com/img/yanbing/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20250417151029.jpg)
+
 ## HP MJM
 
 The detail MJM printer information can be previewed by clicking [here](https://www.hp.com/cn-zh/printers/3d-printers/products/multi-jet-technology.html).
